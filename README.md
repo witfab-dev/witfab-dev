@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/witfab-dev/witfab-dev/blob/main/github-banner.png" alt="Witness Fabrice Banner" width="100%">
-</p>
 
 # 👋 Hi there, I'm **Witness Fabrice (witfab-dev)**
 
