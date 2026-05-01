@@ -1,58 +1,76 @@
+# 👋 Hi, I’m **Witness Fabrice**
 
-# 👋 Hi there, I'm **Witness Fabrice (witfab-dev)**
+**Creative Developer · UI/UX-focused Technologist · Product-minded Builder**
 
-🎨 **Creative Developer | Designer | Innovator**
+I create modern web and mobile experiences that feel polished, fast, and intuitive. My work blends clean frontend code, thoughtful design, and practical backend integrations.
 
-I'm a passionate **software developer and designer** dedicated to building elegant, high-performance digital experiences.  
-I love blending **code + design** to create meaningful interfaces and intelligent systems.
+<p align="center">
+  <a href="https://github.com/witfab-dev"><img src="https://img.shields.io/github/followers/witfab-dev?style=for-the-badge" alt="GitHub Followers"/></a>
+  <a href="https://github.com/witfab-dev?tab=repositories"><img src="https://img.shields.io/github/repo-size/witfab-dev/witfab-dev?style=for-the-badge" alt="Repo size"/></a>
+  <a href="https://github.com/witfab-dev"><img src="https://img.shields.io/github/languages/top/witfab-dev/witfab-dev?style=for-the-badge" alt="Top language"/></a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Skilled in both **frontend and backend** development.  
-- 🧠 Deep interest in **UI/UX design**, **cross-platform apps**, and **interactive systems**.  
-- 🛠️ Technologies I use often: **JavaScript, Python, Dart, HTML, CSS, Figma**.  
-- 🌱 Currently learning **React.js**, **Flutter**, and **Node.js**.  
-- 🤝 Open to collaborating on **open-source** and **innovative projects**.  
-- ✨ My goal: Create experiences that are **visually beautiful**, **functional**, and **impactful**.
+I build beautiful, responsive interfaces and connect them to strong backend systems. I enjoy turning complex ideas into simple digital products with great usability and smooth interactions.
 
 ---
 
-## 🧰 Tech Stack
+## 💡 What I Do
 
-| Category | Tools & Technologies |
-|-----------|----------------------|
-| **Languages** | JavaScript, Python, Dart, HTML, CSS |
-| **Frameworks** | React, Node.js, Flutter (beginner) |
-| **Design** | Figma, Canva, UI/UX Design |
-| **Databases** | Firebase, MySQL, MongoDB |
-| **Other Skills** | Responsive Design, Version Control (Git), Problem Solving |
+- Design and develop responsive web apps and mobile experiences
+- Build reusable UI components and clean user interfaces
+- Integrate apps with Firebase, MySQL, and MongoDB backends
+- Create accessible, performance-focused digital products
+- Collaborate with teams through Git and agile workflows
 
 ---
 
+## 🧰 Core Skills
 
-## 📊 GitHub Stats
+- **Languages:** JavaScript, Python, Dart, HTML, CSS
+- **Frameworks:** React, Node.js, Flutter
+- **Design:** Figma, Canva, UI/UX Design, Visual Systems
+- **Backend:** Firebase, MySQL, MongoDB
+- **Workflow:** Git, responsive layout, component-driven development
+
+---
+
+## 🚧 Projects I Enjoy Building
+
+- Landing pages and product websites
+- Admin dashboards and analytics tools
+- Mobile apps with polished animation and navigation
+- Design systems and reusable UI libraries
+- Data-driven applications with cloud services
+
+---
+
+## 🌱 Learning Focus
+
+- Advanced React patterns and performance optimization
+- Flutter UI and cross-platform mobile flows
+- Node.js APIs and backend automation
+- Accessible design and inclusive experiences
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=witfab-dev&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=witfab-dev&theme=radical" alt="Streak Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=witfab-dev&show_icons=true&theme=radical" alt="GitHub Stats" height="140"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=witfab-dev&theme=radical" alt="GitHub Streak" height="140"/>
 </p>
 
 ---
 
-## 📧 Contact Me
+## 📫 Connect with Me
 
-📩 **Email:** [witnessfabrice@gmail.com](mailto:witnessfabrice@gmail.com)
-
----
-
-## ⚡ Fun Fact
-
-When I’m not coding or designing, I’m probably exploring new tech ideas, sketching UI layouts, or learning something new on YouTube.
+- **Email:** [witnessfabrice@gmail.com](mailto:witnessfabrice@gmail)
+- **GitHub:** [github.com/witfab-dev](https://github.com/witfab-dev)
 
 ---
 
-> _“Creativity meets code. Every pixel and line of code is an opportunity.”_
-
----
+> "Building digital products that feel effortless, polished, and human-first."
