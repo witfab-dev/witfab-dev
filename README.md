@@ -1,80 +1,112 @@
-# 👋 Hi, I’m **Witness Fabrice**
+<!--
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                     WITNESS FABRICE - CREATIVE DEVELOPER                    ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+-->
+
+<div align="center">
+
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm **Witness Fabrice**
 
 **Creative Developer · UI/UX-Focused Technologist · Product-Minded Builder**
 
-I craft modern web and mobile experiences that feel polished, fast, and intuitive. My work sits at the intersection of clean frontend code, thoughtful design, and practical backend integrations.
+*Crafting digital experiences that feel effortless, polished, and human-first*
 
-<p align="center">
-  <a href="https://github.com/witfab-dev"><img src="https://img.shields.io/github/followers/witfab-dev?style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Followers"/></a>
-  <a href="https://github.com/witfab-dev?tab=repositories"><img src="https://img.shields.io/github/stars/witfab-dev?style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Stars"/></a>
-  <a href="https://github.com/witfab-dev"><img src="https://img.shields.io/github/languages/top/witfab-dev/witfab-dev?style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Top Language"/></a>
-</p>
+</div>
 
----
+<br/>
 
-## 🚀 About Me
+<div align="center">
 
-I build beautiful, responsive interfaces and connect them to robust backend systems. I thrive on turning complex ideas into simple, delightful digital products with great usability and smooth interactions.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;UI%2FUX+Designer;Open+Source+Contributor;Creative+Technologist;Product+Builder)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 💡 What I Do
+## 📊 Real-Time Dashboard
 
-- Design and develop responsive web apps and mobile experiences
-- Build reusable UI components and clean, scalable user interfaces
-- Integrate applications with Firebase, MySQL, and MongoDB backends
-- Create accessible, performance-focused digital products
-- Collaborate with teams using Git and agile workflows
+<div align="center">
 
----
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=witfab-dev&style=flat-square&color=0891b2&label=Profile+Views" alt="Profile Views"/>
 
-## 🧰 Core Skills
+<!-- Followers & Stars -->
+<a href="https://github.com/witfab-dev"><img src="https://img.shields.io/github/followers/witfab-dev?style=social" alt="GitHub Followers"/></a>
+<a href="https://github.com/witfab-dev?tab=repositories"><img src="https://img.shields.io/github/stars/witfab-dev?style=social" alt="GitHub Stars"/></a>
 
-| Category       | Technologies & Tools                                       |
-|----------------|------------------------------------------------------------|
-| **Languages**  | JavaScript, Python, Dart, HTML5, CSS3                      |
-| **Frameworks** | React, Node.js, Flutter                                    |
-| **Design**     | Figma, Canva, UI/UX Design, Design Systems                 |
-| **Backend**    | Firebase, MySQL, MongoDB                                   |
-| **Workflow**   | Git, Responsive Layouts, Component-Driven Development      |
+<br/>
 
----
+<!-- Social Badges -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:witnessfabrice@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/witfab-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/witfab-dev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/witfab-dev)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/witfab-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://witfab-dev.vercel.app)
 
-## 🚧 Projects I Love Building
-
-- Landing pages and product websites
-- Admin dashboards and analytics tools
-- Mobile apps with polished animations and navigation
-- Design systems and reusable UI libraries
-- Data-driven applications with cloud services
+</div>
 
 ---
 
-## 🌱 Currently Learning
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="25px"></picture> **About Me**
 
-- Advanced React patterns and performance optimization
-- Flutter UI and cross-platform mobile flows
-- Node.js APIs and backend automation
-- Accessible design and inclusive user experiences
+<div align="center">
 
----
+```javascript
+const witness = {
+    pronouns: "He" | "Him",
+    role: "Creative Developer",
+    location: "Africa",
+    languages: ["English", "French", "Swahili"],
+    code: ["JavaScript", "TypeScript", "Python", "Dart", "HTML5", "CSS3", "SQL"],
+    frontend: ["React.js", "Next.js", "Flutter", "Tailwind CSS", "Material UI", "Framer Motion"],
+    backend: ["Node.js", "Express.js", "Firebase", "MongoDB", "MySQL", "PostgreSQL"],
+    tools: ["Git", "Docker", "Figma", "Canva", "VS Code", "Postman"],
+    architecture: ["Microservices", "Event-Driven", "REST APIs", "Design Systems"],
+    currentFocus: "Building scalable React & Flutter applications",
+    workingOn: "Advanced UI animations & real-time data visualization",
+    learning: ["Next.js 14", "TypeScript", "Motion Design", "Cloud Architecture"],
+    funFact: "I debug with rubber ducks and coffee",
+    availableForFreelance: true,
+    openToCollaborate: true,
+    challenge: "I'm currently accepting new project opportunities"
+};
+🌙 Last 7 Days Coding Stats:
 
-## 📈 GitHub Stats
+JavaScript   15 hrs 30 mins  ████████████████░░░░░  65.2 %
+React        8 hrs 45 mins   █████████░░░░░░░░░░░░  36.8 %
+Flutter      5 hrs 20 mins   ██████░░░░░░░░░░░░░░░  22.4 %
+CSS          3 hrs 15 mins   ████░░░░░░░░░░░░░░░░░  13.6 %
+Python       2 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░  10.5 %
+TypeScript   1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░   7.3 %
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=witfab-dev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=witfab-dev&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=witfab-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
----
-
-## 📫 Let's Connect
-
-- **Email:** [witnessfabrice@gmail.com](mailto:witnessfabrice@gmail.com)
-- **GitHub:** [github.com/witfab-dev](https://github.com/witfab-dev)
-- **Portfolio:** *Coming soon*
-
----
-
-> *"Building digital products that feel effortless, polished, and human-first."*
+graph LR
+    A[Current] -->|Learning| B[TypeScript Advanced]
+    A -->|Exploring| C[Next.js 14]
+    B -->|Next| D[Full-Stack Cert]
+    C -->|Next| E[Cloud Architecture]
+    D -->|Goal| F[Senior Dev 2025]
+    E -->|Goal| G[Tech Lead]
+    
+    style A fill:#0891B2,stroke:#fff,stroke-width:2px
+    style B fill:#3178C6,stroke:#fff,stroke-width:2px
+    style C fill:#000,stroke:#fff,stroke-width:2px
+    style D fill:#FF6B6B,stroke:#fff,stroke-width:2px
+    style E fill:#FF9900,stroke:#fff,stroke-width:2px
+    style F fill:#00C853,stroke:#fff,stroke-width:2px
+    style G fill:#E040FB,stroke:#fff,stroke-width:2px
+timeline
+    title Career Journey
+    2022 : Started Web Development
+         : HTML, CSS, JavaScript
+         : First Freelance Projects
+    2023 : React & Node.js Mastery
+         : Firebase & MongoDB
+         : Mobile Development with Flutter
+    2024 : Full-Stack Applications
+         : UI/UX Design Systems
+         : Open Source Contributions
+    2025 : Tech Lead Aspirations
+         : Cloud Architecture
+         : Mentoring & Community Building
