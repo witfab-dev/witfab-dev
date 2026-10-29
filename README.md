@@ -4,10 +4,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0891B2,50:6366F1,100:A855F7&text=Witness%20Fabrice&fontColor=ffffff&fontSize=60&fontAlignY=36&animation=fadeIn&desc=Creative%20Developer%20%C2%B7%20UI%2FUX%20Technologist%20%C2%B7%20Product%20Builder&descSize=18&descAlignY=58" alt="Witness Fabrice header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0891B2,50:6366F1,100:A855F7&text=Witness%20Fabrice&fontColor=ffffff&fontSize=62&fontAlignY=36&animation=fadeIn&desc=Creative%20Developer%20%C2%B7%20UI%2FUX%20Technologist%20%C2%B7%20Product%20Builder&descSize=18&descAlignY=58" alt="Witness Fabrice header" />
 
 <a href="https://github.com/witfab-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&multiline=false&width=760&height=50&lines=I+build+interfaces+that+feel+effortless;Full-Stack+%C2%B7+React+%C2%B7+Flutter+%C2%B7+Node.js;Design+thinking+meets+clean+engineering;Shipping+products%2C+not+just+code" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&height=50&lines=I+build+interfaces+that+feel+effortless;Full-Stack+%C2%B7+React+%C2%B7+Flutter+%C2%B7+Node.js;Design+thinking+meets+clean+engineering;Shipping+products%2C+not+just+code" alt="Typing animation" />
 </a>
 
 <br/>
@@ -19,36 +19,111 @@
 <br/><br/>
 
 <a href="mailto:witnessfabrice@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/witfab-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://linkedin.com/in/witfab-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://twitter.com/witfab-dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://witfab-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://witfabrice.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
 <br/>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0891B2,100:6366F1&text=About%20Me&fontColor=ffffff&fontSize=28&animation=twinkling" alt="About Me" />
 
-## 👨‍💻 About Me
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=A5B4FC&center=true&vCenter=true&width=720&height=40&lines=%F0%9F%91%8B+Click+a+card+below+to+get+to+know+me;I+work+where+design+meets+engineering;Based+in+Kigali%2C+Rwanda+%F0%9F%87%B7%F0%9F%87%BC+%C2%B7+building+for+the+world" alt="About intro" />
+
+<img src="https://img.shields.io/badge/📍_Kigali,_Rwanda-0891B2?style=flat-square&labelColor=0f172a" alt="Location" />
+<img src="https://img.shields.io/badge/💼_Open_to_work-22C55E?style=flat-square&labelColor=0f172a" alt="Open to work" />
+<img src="https://img.shields.io/badge/🗣️_English_·_Kinyarwanda-6366F1?style=flat-square&labelColor=0f172a" alt="Languages" />
+<img src="https://img.shields.io/badge/⚡_Ships_fast-A855F7?style=flat-square&labelColor=0f172a" alt="Ships fast" />
+
+</div>
+
+<br/>
+
+<details open>
+<summary><b>👤 &nbsp;Who I am</b> &nbsp;<i>(click to collapse)</i></summary>
+<br/>
+
+I'm **Witness Fabrice**, a creative developer who cares as much about how software *feels* as how it works. I design interfaces in Figma, build them in React, Next.js and Flutter, and power them with Node.js backends, so a product can go from idea to polished release in one pair of hands.
+
+> 💡 *Great software is invisible: it just feels right.*
+
+</details>
+
+<details>
+<summary><b>🔭 &nbsp;What I'm building right now</b></summary>
+<br/>
+
+| Focus | What it means |
+|:--|:--|
+| 🛍️ **Marketplace platforms** | Connecting customers with local service providers through SABA |
+| 🌐 **Interactive web experiences** | Portfolio-grade React interfaces with motion and polish |
+| 📱 **Cross-platform mobile apps** | Flutter apps with a native feel |
+| 📊 **Real-time dashboards** | Turning raw data into clear, actionable views |
+
+</details>
+
+<details>
+<summary><b>🌱 &nbsp;What I'm learning</b></summary>
+<br/>
+
+```text
+System Design        ██████████░░░░░░░░░░  in progress
+Cloud Architecture   █████████░░░░░░░░░░░  in progress
+Advanced TypeScript  ████████████░░░░░░░░  in progress
+```
+
+Always shipping, always leveling up.
+
+</details>
+
+<details>
+<summary><b>🤝 &nbsp;Open to</b></summary>
+<br/>
+
+- 🧑‍🤝‍🧑 **Collaborations** on products with real users
+- 🌍 **Open source** contributions
+- 💼 **Freelance and product roles** where design and code meet
+
+<a href="mailto:witnessfabrice@gmail.com"><img src="https://img.shields.io/badge/Say_hello-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Say hello" /></a>
+
+</details>
+
+<details>
+<summary><b>🧠 &nbsp;Ask me about</b></summary>
+<br/>
+
+- ⚛️ Building responsive, animated React interfaces
+- 🎨 Turning Figma designs into pixel-accurate UI
+- 📱 Shipping Flutter apps
+- 🌐 Multilingual products, including Kinyarwanda support
+- 🛍️ Designing marketplace and quotation workflows
+
+</details>
+
+<details>
+<summary><b>🪪 &nbsp;Developer card</b></summary>
+<br/>
 
 ```js
 const witness = {
   name: "Witness Fabrice",
   role: "Creative Developer & UI/UX-Focused Technologist",
   location: "Kigali, Rwanda 🇷🇼",
-  currentlyBuilding: ["Product-grade web apps", "Cross-platform mobile apps", "Real-time dashboards"],
-  currentlyLearning: ["System design", "Cloud architecture", "Advanced TypeScript"],
+  stack: ["React", "Next.js", "TypeScript", "Flutter", "Node.js"],
   philosophy: "Great software is invisible: it just feels right.",
-  funFact: "I design it in Figma, then argue with myself about the padding in code.",
-  openTo: ["Collaborations", "Open source", "Freelance & product roles"],
+  available: true,
+  reachMe: () => "witnessfabrice@gmail.com",
 };
 ```
 
-> 💡 **I sit where design meets engineering**: crafting interfaces people enjoy using, backed by systems that scale.
+</details>
 
 <br/>
 
-## 🎯 What I Do
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:6366F1,100:A855F7&text=What%20I%20Do&fontColor=ffffff&fontSize=28&animation=twinkling" alt="What I Do" />
 
 <div align="center">
 
@@ -56,13 +131,13 @@ const witness = {
 |:---:|:---:|:---:|
 | Fast, accessible React & Next.js apps | Flutter apps with native-feel polish | REST APIs with Node, Express & databases |
 | 🎨 **UI/UX Design** | ☁️ **Cloud & DevOps** | 📊 **Data Dashboards** |
-| Figma prototypes to pixel-perfect UI | Dockerized, CI/CD-ready deployments | Insightful, real-time data visualization |
+| Figma prototypes to pixel-perfect UI | Dockerized, CI/CD-ready deployments | Clear, real-time data visualization |
 
 </div>
 
 <br/>
 
-## 🧰 Tech Arsenal
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:A855F7,100:0891B2&text=Tech%20Arsenal&fontColor=ffffff&fontSize=28&animation=twinkling" alt="Tech Arsenal" />
 
 <div align="center">
 
@@ -82,7 +157,60 @@ const witness = {
 
 <br/>
 
-## 📈 GitHub Analytics
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0891B2,100:A855F7&text=Featured%20Projects&fontColor=ffffff&fontSize=28&animation=twinkling" alt="Featured Projects" />
+
+<br/>
+
+### 🛍️ SABA Marketplace
+
+**A digital marketplace connecting customers with local service providers.**
+
+SABA helps customers discover service providers, submit service requests, compare quotations, and connect with professionals.
+
+| | |
+|:--|:--|
+| 🔎 **Discovery** | Service discovery and provider listings |
+| 💬 **Workflows** | Service requests and quotation comparison |
+| ⭐ **Trust** | Customer reviews and ratings |
+| 🌐 **Local-first** | English and Kinyarwanda language support |
+| 🛠️ **Engineering** | Full-stack application development |
+
+<a href="https://github.com/witfab-dev/Saba-marketplace"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="SABA Marketplace repository" /></a>
+
+<div align="center">
+<a href="https://github.com/witfab-dev/Saba-marketplace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=witfab-dev&repo=Saba-marketplace&theme=tokyonight&hide_border=true&border_radius=16" alt="SABA Marketplace card" /></a>
+</div>
+
+<br/>
+
+### 🌐 Developer Portfolio
+
+**A personal showcase of software development, technical skills, and creative work.**
+
+An interactive portfolio built to present projects, demonstrate technical capability, and establish a professional developer identity.
+
+| | |
+|:--|:--|
+| 🎨 **Design** | Modern, responsive user interface |
+| ⚛️ **Frontend** | React-based development |
+| ✨ **Motion** | Interactive animations and visual experiences |
+| 📱 **Responsive** | Tuned for every screen size |
+| 📬 **Contact** | Built-in contact functionality |
+
+<a href="https://witfabrice.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" /></a>
+<a href="https://github.com/witfab-dev"><img src="https://img.shields.io/badge/Explore_My_Repositories-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+
+<br/><br/>
+
+### 💡 More Projects
+
+I'm continually exploring new technologies and building applications that strengthen my software engineering skills.
+
+<a href="https://github.com/witfab-dev?tab=repositories"><img src="https://img.shields.io/badge/Browse_All_Projects-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="All projects" /></a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:6366F1,100:0891B2&text=GitHub%20Analytics&fontColor=ffffff&fontSize=28&animation=twinkling" alt="GitHub Analytics" />
 
 <div align="center">
 
@@ -97,58 +225,19 @@ const witness = {
 
 <br/>
 
-## 🏆 Trophy Case
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=witfab-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies" />
-
-</div>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<!-- Replace the placeholders below with your real repos -->
-
-<div align="center">
-
-<a href="https://github.com/witfab-dev/REPO-NAME-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=witfab-dev&repo=REPO-NAME-1&theme=tokyonight&hide_border=true&border_radius=16" alt="Project 1" /></a>
-<a href="https://github.com/witfab-dev/REPO-NAME-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=witfab-dev&repo=REPO-NAME-2&theme=tokyonight&hide_border=true&border_radius=16" alt="Project 2" /></a>
-
-<a href="https://github.com/witfab-dev/REPO-NAME-3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=witfab-dev&repo=REPO-NAME-3&theme=tokyonight&hide_border=true&border_radius=16" alt="Project 3" /></a>
-<a href="https://github.com/witfab-dev/REPO-NAME-4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=witfab-dev&repo=REPO-NAME-4&theme=tokyonight&hide_border=true&border_radius=16" alt="Project 4" /></a>
-
-</div>
-
-<br/>
-
-## 🧭 How I Work
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:A855F7,100:6366F1&text=How%20I%20Work&fontColor=ffffff&fontSize=28&animation=twinkling" alt="How I Work" />
 
 <div align="center">
 
 | 🎨 Design First | ⚡ Performance Obsessed | ♿ Accessible by Default | 🔁 Ship & Iterate |
 |:---:|:---:|:---:|:---:|
-| Understand users before writing code | Lighthouse scores matter | Semantic, inclusive interfaces | Small releases, fast feedback |
+| Understand users before writing code | Speed is a feature | Semantic, inclusive interfaces | Small releases, fast feedback |
 
 </div>
 
 <br/>
 
-## 🤝 Let's Build Something Great
-
-<div align="center">
-
-Have an idea, a product to ship, or a project that needs a developer who cares about the details?
-
-<a href="mailto:witnessfabrice@gmail.com"><img src="https://img.shields.io/badge/Start_a_conversation-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
-<a href="https://witfab-dev.vercel.app"><img src="https://img.shields.io/badge/View_my_work-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0891B2,100:A855F7&text=Contribution%20Snake&fontColor=ffffff&fontSize=28&animation=twinkling" alt="Contribution Snake" />
 
 <div align="center">
 
@@ -157,6 +246,19 @@ Have an idea, a product to ship, or a project that needs a developer who cares a
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/witfab-dev/witfab-dev/output/github-contribution-grid-snake.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/witfab-dev/witfab-dev/output/github-contribution-grid-snake-dark.svg" />
 </picture>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:6366F1,100:0891B2&text=Let%27s%20Build%20Something%20Great&fontColor=ffffff&fontSize=28&animation=twinkling" alt="Let's build something great" />
+
+<div align="center">
+
+Have an idea, a product to ship, or a project that needs a developer who cares about the details?
+
+<a href="mailto:witnessfabrice@gmail.com"><img src="https://img.shields.io/badge/Start_a_conversation-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
+<a href="https://witfabrice.vercel.app"><img src="https://img.shields.io/badge/View_my_work-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
